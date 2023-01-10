@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
 </p>
 
-- 🔭 I’m currently working on **Intertech** as an intern
+- 🔭 I’m currently working on **Turkish Aerospace** as an intern engineer
 
 - 🌱 I’m currently learning **reactJS, solidity**
 
